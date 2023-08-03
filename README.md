@@ -5,7 +5,7 @@
   height="500" 
   />
 
-<h2> Google Data Analyst Practice Problems/Capstone Projects </h2>
+<h2> Google Data Analyst Practice Problems/Capstone Projects: </h2>
 
 
 
